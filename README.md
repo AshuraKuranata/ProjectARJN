@@ -39,4 +39,5 @@ Example: “Lab X drawn on 01/01/2025” → “MRI performed on 01/03/2025”.
 
 
 To-do
-* Review Fire information related to 
+* Build FHIR database backend - Python/SQL
+* Update Front-End in React to look like an application
